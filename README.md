@@ -1,4 +1,4 @@
-## Hi, I’m @heiric
+## Hi, I’m Eric
 - Interests:
   JS, TS PHP, Java, C#
 - Learning:
